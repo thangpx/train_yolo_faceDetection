@@ -1,0 +1,8 @@
+classes= 1
+train  = yolo_train.txt
+valid  = coco_testdev
+#valid = data/coco_val_5k.list
+names = cfg/face.names
+backup = backup/
+eval=coco
+
